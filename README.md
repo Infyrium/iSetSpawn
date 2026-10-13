@@ -1,1 +1,1 @@
-# mc-isetspawn
+# iSetSpawn
